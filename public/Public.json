@@ -1,0 +1,53 @@
+[
+    {
+      "id": "123456",
+      "cover": "https://example.com/cover1.jpg",
+      "title": "The Mystery of the Enchanted Forest",
+      "author": "Jane Doe",
+      "author_img": "https://example.com/authors/jane_doe.jpg",
+      "posted_date": "2024-03-20",
+      "reading_time": 45,
+      "hashtags": ["mystery", "fantasy", "adventure"]
+    },
+    {
+      "id": "789012",
+      "cover": "https://example.com/cover2.jpg",
+      "title": "Secrets of the Lost Kingdom",
+      "author": "John Smith",
+      "author_img": "https://example.com/authors/john_smith.jpg",
+      "posted_date": "2024-03-18",
+      "reading_time": 60,
+      "hashtags": ["adventure", "quest", "history"]
+    },
+    {
+      "id": "345678",
+      "cover": "https://example.com/cover3.jpg",
+      "title": "Stars Beyond Reach",
+      "author": "Emily Johnson",
+      "author_img": "https://example.com/authors/emily_johnson.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 30,
+      "hashtags": ["science fiction", "space", "exploration"]
+    },
+    {
+      "id": "901234",
+      "cover": "https://example.com/cover4.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Michael Anderson",
+      "author_img": "https://example.com/authors/michael_anderson.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 50,
+      "hashtags": ["romance", "time-travel", "destiny"]
+    },
+    {
+      "id": "567890",
+      "cover": "https://example.com/cover5.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Sarah Williams",
+      "author_img": "https://example.com/authors/sarah_williams.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 40,
+      "hashtags": ["horror", "suspense", "thriller"]
+    }
+  ]
+  

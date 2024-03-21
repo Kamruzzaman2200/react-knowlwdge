@@ -1,7 +1,7 @@
 import './App.css'
-import Blog from './Components/Blog'
-import Bookmarks from './Components/Bookmarks'
-import Headar from './Components/Headar'
+import Blogs from './Components/Blogs/Blogs'
+import Header from './Components/Header/Header'
+
 
 
 function App() {
@@ -9,11 +9,8 @@ function App() {
 
   return (
     <>
-        <Headar ></Headar>
-        <div className='md:flex'>
-        <Blog></Blog>
-        <Bookmarks></Bookmarks>
-        </div>
+     <Header></Header>
+     <Blogs></Blogs>
     </>
   )
 }
